@@ -1,0 +1,24 @@
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: plum;
+  color: white;
+  text-align: center;
+}
+
+.list {
+  text-align: center;
+}
+
+ul,
+ol {
+  list-style-position: inside;
+  text-align: center;
+}
+
+img {
+  width: 25%;
+  height: 25%;
+}
